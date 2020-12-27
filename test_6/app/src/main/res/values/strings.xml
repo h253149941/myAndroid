@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">熊欢欢2018110350</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="score">Score:</string>
+    <string name="reset">Reset</string>
+    <string name="button">Click me</string>
+    <string name="textView">Hello world!</string>
+    <string name="clecked">I am clicked!</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">唐劼宇2018110534</string>
+    <string name="button_add">ADD</string>
+    <string name="button_delete">DELETE</string>
+    <string name="button_update">UPDATE</string>
+    <string name="button_query">QUERY</string>
+    <string name="name">name</string>
+    <string name="age">age</string>
+</resources>

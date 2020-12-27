@@ -1,0 +1,17 @@
+package com.example.xiong_huanhuan
+
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+import kotlinx.android.synthetic.main.activity_second.*
+
+class SecondActivity : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_second)
+        val intent = getIntent()
+        bookname.text = intent.getStringExtra(FIRST_MSG)
+        author.text = intent.getStringExtra(SECOND_MSG)
+        publishing.text = intent.getStringExtra(THIRD_MSG)
+        price.text = intent.getStringExtra(FOURTH_MSG)
+    }
+}

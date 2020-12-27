@@ -1,0 +1,13 @@
+<resources>
+<string name="app_name">熊欢欢2018110350</string>
+<string name="button">确定</string>
+<string name="button2">addtext</string>
+<string name="text">TextView</string>
+<string name="LinearLayout">wait</string>
+<string-array name="list">
+    <item>快速</item>
+    <item>容易</item>
+    <item>新语言</item>
+    <item>面向对象</item>
+</string-array>
+</resources>
